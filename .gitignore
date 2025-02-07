@@ -217,3 +217,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#KiCad Backup files
+*.kicad_prl
+fp-info-cache
+~*.lck
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+\#auto_saved_files\#
