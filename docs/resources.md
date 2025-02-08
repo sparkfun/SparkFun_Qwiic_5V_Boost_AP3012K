@@ -1,4 +1,4 @@
-Now that you've successfully got your SparkFun Serial Audio Player Breakout - MY1690X up and running, it's time to incorporate it into your own project! For more information, check out the resources below:
+Now that you've successfully got your SparkFun Qwiic 5V Boost - AP3012K up and running, it's time to incorporate it into your own project! For more information, check out the resources below:
 
 * [Schematic (PDF)](../assets/board_files/
 * [KiCad Files (ZIP)](../assets/board_files/
