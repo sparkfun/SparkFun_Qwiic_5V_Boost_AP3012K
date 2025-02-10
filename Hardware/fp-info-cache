@@ -1,4 +1,4 @@
-25058805757248137
+25060544869407422
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95087,6 +95087,13 @@ UFQFN-12_2.2x1.4mm_SMD
 0
 12
 12
+Superheadphones
+TFSOP-10
+
+
+0
+10
+10
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
