@@ -6230,7 +6230,7 @@
 		)
 		(uuid "a2b066d4-583a-41aa-9e9b-4c2a954e630f")
 	)
-	(text "Max Current: 350mA (limited by L1)"
+	(text "Max Current: 100mA"
 		(exclude_from_sim no)
 		(at 64.77 66.04 0)
 		(effects
