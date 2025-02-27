@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "SparkFun Qwiic 5V Boost AP3012K")
-		(date "2025-02-10")
+		(date "2025-02-27")
 		(rev "v10")
 		(comment 1 "SparkX Qwiic Boost by N. Seidle")
 		(comment 2 "Based off the Indoor Air Quality Combo and the")
