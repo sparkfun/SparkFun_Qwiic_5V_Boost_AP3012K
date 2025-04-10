@@ -222,9 +222,9 @@ plugins:
       enabled: !ENV [CI, false]
 
   # Enables use of Git submodules and larger code base
-  - monorepo:
+  # - monorepo:
       # Disables plugin on local builds
-      enabled: !ENV [CI, false]
+      # enabled: !ENV [CI, false]
 
 
 # Included Markdown extensions
