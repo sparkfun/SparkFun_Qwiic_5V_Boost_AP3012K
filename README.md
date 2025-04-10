@@ -1,9 +1,9 @@
 SparkFun Qwiic 5V Boost - AP3012K
 ========================================
 
-[![SparkFun Qwiic 5V Boost - AP3012K](banner-repo.png)](https://https://www.sparkfun.com/sparkfun-qwiic-5v-boost-ap3012k.html)
+[![SparkFun Qwiic 5V Boost - AP3012K](banner-repo.png)](https://www.sparkfun.com/sparkfun-qwiic-5v-boost-ap3012k.html)
 
-From its Qwiic connectors, the [SparkFun Qwiic 5V Boost - AP3012K](https://https://www.sparkfun.com/sparkfun-qwiic-5v-boost-ap3012k.html) converts the **3.3V** logic-level of the I<sup>2</sup>C signals and boosts the **3.3V** power supply; all to **5V** on its [PTH *(plated through-hole)*](https://en.wikipedia.org/wiki/Through-hole_technology) pins. This is handy for connecting any I<sup>2</sup>C device that requires a higher supply voltage for an RGB LED or mechanisms like a DC fan on our air quality sensors:
+From its Qwiic connectors, the [SparkFun Qwiic 5V Boost - AP3012K](https://www.sparkfun.com/sparkfun-qwiic-5v-boost-ap3012k.html) converts the **3.3V** logic-level of the I<sup>2</sup>C signals and boosts the **3.3V** power supply; all to **5V** on its [PTH *(plated through-hole)*](https://en.wikipedia.org/wiki/Through-hole_technology) pins. This is handy for connecting any I<sup>2</sup>C device that requires a higher supply voltage for an RGB LED or mechanisms like a DC fan on our air quality sensors:
 
 - [Sensirion SPS30 - Particulate Matter Sensor](https://www.sparkfun.com/particulate-matter-sensor-sps30.html)
 - [Sensirion SEN54 - Particle, VOC, Humidity, and Temperature Sensor](https://www.sparkfun.com/particle-voc-humidity-and-temperature-sensor-sen54.html)
