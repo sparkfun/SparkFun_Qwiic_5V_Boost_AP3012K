@@ -155,7 +155,7 @@ plugins:
   # Redirects page navigation
   - redirects:
       redirect_maps:
-        'index.md': 'introduction.md'
+        'index.md': 'quick_start.md'
 
   # Enables improved security for external links
   - privacy:
